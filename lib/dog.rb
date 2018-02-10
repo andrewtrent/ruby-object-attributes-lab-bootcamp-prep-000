@@ -1,4 +1,6 @@
 class Dog 
+  @name = "Default name"
+  @breed = "Default breed"
   def name 
     @name 
   end
