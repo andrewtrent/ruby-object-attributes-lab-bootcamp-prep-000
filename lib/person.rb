@@ -1,4 +1,5 @@
 class Person 
+  @job = "Default job"
   def job
     @job
   end
